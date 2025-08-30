@@ -1,0 +1,4 @@
+terminal 1 :- python app.py
+
+terminal 2:- cd stremalit_app
+python -m streamlit run streamlit_app.py
